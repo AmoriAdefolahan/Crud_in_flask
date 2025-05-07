@@ -51,4 +51,4 @@ _index()_ - Display the list of all product entries in the database
 
 <!--Remove the below lines and add yours -->
 
-[Alexander Monterrosa](https://github.com/Alex108-lab)
+Adefolahan Amori 
